@@ -6,7 +6,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-      <h1 class="text-center">Hello World</h1>
+      <h1 class="text-center">Projet DevOps 2020 </h1>
      
   </div>
 </body>
